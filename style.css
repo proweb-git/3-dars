@@ -1,0 +1,37 @@
+body {
+    background: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: honeydew;
+}
+p {
+    font-size: 20px;
+    line-height: 30px;
+}
+.text {
+    color: blue;
+}
+#text {
+    color:  red;
+}
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+.box {
+    width: 400px;
+    height: 400px;
+    padding: 100px;
+    background: red;
+    margin: 50px auto;
+    border: 5px dashed #000;
+    border-radius: 25px;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+    display: block;
+}
